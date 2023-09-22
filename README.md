@@ -12,7 +12,7 @@ O objetivo deste projeto é criar um pseudo login usando HTML, PHP, JS e CSS. O 
 EN-US
 The goal of this project is to create a pseudo login using HTML, PHP, JS and CSS. The system must allow the user to enter their login and password, and then check whether the information is valid. If the information is valid, the user will be redirected to a successful page.
 
-# Requisitos - Requirements :
+# Requisitos - Requirements:
 
 PT-BR
 O sistema deverá ter um formulário de login com dois campos: login e senha.
