@@ -11,7 +11,7 @@
 <body>
     <header>
         <h1>
-            Login sucedido!
+           Welcome
         </h1>
     </header>
     <main>
@@ -27,14 +27,12 @@
             } else {
                 document.addEventListener('DOMContentLoaded', () => {
                     const result = document.querySelector('#result');
-                    result.innerHTML = 'Bem-vindo';
+                    result.innerHTML = 'Successful login';
                 });
             }
         </script>";
         ?>
         <p id="result" style="display: flex; justify-content: center"></p>
-        <p><a href="javascript:history.go(-1)">Logout</a></p>
+        <p id="logout"style="display: flex; justify-content: center"><a href="javascript:history.go(-1)">Logout</a></p>
     </main>
 </body>
-
-</html>

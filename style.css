@@ -21,6 +21,17 @@ body {
   align-items: center;
 }
 
+#result{
+  background-color: forestgreen;
+  padding: 10px;
+  border-radius: 8px;  
+}
+
+#logout a{
+  border-radius: 8px;
+  padding: 8px;
+}
+
 header,
 main,
 section,
