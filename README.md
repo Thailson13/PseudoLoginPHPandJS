@@ -39,3 +39,5 @@ index.html: System home page.
 cad.php: PHP file responsible for checking login and password information together in a JavaScript script.
 style.css: CSS file responsible for the page style.
 img: Folder of img files used in the README
+
+[Clique aqui para acessar o site do projeto / Click here to access the project website](https://thailson13.github.io/PseudoLoginPHPandJS)
